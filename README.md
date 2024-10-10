@@ -4,6 +4,7 @@ Objective: Develop an interactive dashboard to analyze sales data for furniture,
 
 Key Goals
 Visualize Sales Performance: Present a comprehensive view of sales across different categories and time periods.
+
 Identify Top Customers: Highlight the most valuable customers to tailor marketing and sales efforts effectively.
 Analyze Product Performance: Determine which subcategories are driving sales, enabling better inventory and marketing strategies.
 Monitor Profit Trends: Track yearly and monthly profit changes to assess financial health and operational efficiency.
