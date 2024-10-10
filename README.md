@@ -26,5 +26,5 @@ Monthly Profit Change: Detailed analysis of profit variations on a month-to-mont
 
 Sales by State: Geographic breakdown of sales to uncover regional strengths and opportunities for growth.
 
-Conclusion
+Conclusion :
 Creating this interactive dashboard will empower the company with actionable insights derived from sales data, supporting informed decision-making and strategic planning across departments. By leveraging data visualization, the company can better understand its market position and drive future growth.
